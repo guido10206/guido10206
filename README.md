@@ -1,40 +1,43 @@
-# 👋 Hi, I'm Guido!
+👋 Hi, I’m Guido!
 
-### 💻 Software Development Student at UTN Bahía Blanca  
-### 🐍 Python Developer (main) | C# (secondary)
+💻 Software Development Student at UTN Bahía Blanca
 
-I'm studying Software Development at UTN Bahía Blanca and currently focusing on becoming a strong Python developer.  
-I use Python to practice logic, build small applications, and solve real-world problems.  
-I also work with C# as a secondary language as I continue learning backend concepts.
+🐍 Python Developer (main) | C# (secondary)
 
-I'm building my portfolio here on GitHub while preparing for my first job in tech.
+📦 Knowledge in JSON & API handling
 
----
+I’m studying Software Development at UTN Bahía Blanca and currently focusing on becoming a strong Python developer.
+I build practical projects, dashboards, and small applications while learning backend fundamentals.
+I also work with C# as a secondary language and enjoy exploring how systems interact through APIs and JSON.
 
-## 🔧 Technologies & Tools
-- **Main language:** Python  
-- **Secondary:** C#  
-- **Tools:** Git, GitHub, Visual Studio Code, Visual Studio  
-- **Concepts:** OOP basics, scripting, problem solving, beginner backend logic  
+I’m actively building my GitHub portfolio while preparing for my first job in tech.
 
----
+⸻
 
-## 📌 What I'm Working On
-- Improving my Python skills  
-- Creating small scripts and console apps  
-- Learning practical backend logic  
-- Building projects for my GitHub portfolio  
-- Preparing for my first job as a junior developer  
+🔧 Technologies & Tools
+	•	Main language: Python
+	•	Secondary: C#
+	•	Formats & Data: JSON, API consumption, data handling
+	•	Tools: Git, GitHub, Visual Studio Code, Visual Studio
+	•	Concepts: OOP basics, backend fundamentals, scripting, problem solving
 
----
+⸻
 
-## 🎯 Goals for 2026
-- Get my first role as a **Junior Python Developer**  
-- Build practical projects using Python  
-- Improve my C# backend knowledge  
-- Learn SQL and databases  
-- Strengthen clean code and problem-solving skills  
+📌 What I’m Working On
+	•	Building Python projects (apps, dashboards, scripts)
+	•	Working with JSON APIs (NBA stats, data endpoints, etc.)
+	•	Creating small C# console applications
+	•	Strengthening backend logic and data processing
+	•	Expanding my GitHub portfolio with real, functional projects
 
+⸻
+
+🎯 Goals for 2026
+	•	Get my first role as a Junior Python Developer
+	•	Build more practical backend and API-based projects
+	•	Improve my C# backend skills
+	•	Learn SQL and relational databases
+	•	Develop clean, maintainable code and strong problem-solving skills
 
 ---
 
